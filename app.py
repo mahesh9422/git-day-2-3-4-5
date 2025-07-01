@@ -7,7 +7,7 @@ def add_numbers(a, b):
     return a + b
 
 if __name__ == "__main__":
-    name = input("Enter your name: ")
+    name = input("Enter your name: mahesh ")
     greet(name)
     
     num1 = float(input("Enter first number: "))
